@@ -42,7 +42,7 @@
    if(hrefs2!=null)
    {
            //Recorremos el array  y le colocamos el atributo target a cada href encontrado
-  for(var i=0;i<hrefs.length;i++){hrefs2[i].target="_blank";}void(0);
+  for(var i=0;i<hrefs2.length;i++){hrefs2[i].target="_blank";}void(0);
        
     }
 	 
